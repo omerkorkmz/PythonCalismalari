@@ -12,7 +12,12 @@ Bu Python projesi, modern bir GUI (grafik kullanıcı arayüzü) ile oluşturulm
 - ⌨️ Klavye desteği (Enter, rakamlar, işlemler, backspace)
 
 ## 📷 Ekran Görüntüsü
-- Gifler Eklenecek
+- ![gif-1](https://github.com/user-attachments/assets/8c12fa2c-35c0-4360-b2f1-38f6110105df)
+- ![gif-2](https://github.com/user-attachments/assets/156dd441-6726-4792-a1e3-64188eb8ec93)
+- ![gif-3](https://github.com/user-attachments/assets/905f603a-c45e-45c7-b837-26853e62c520)
+
+
+
 ## 🛠 Gereksinimler
 
 - Python 3.8+
