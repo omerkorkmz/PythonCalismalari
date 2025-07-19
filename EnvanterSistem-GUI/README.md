@@ -18,8 +18,15 @@ Bu proje, Python ve `customtkinter` kullanılarak geliştirilen modern bir masa�
 - 🎨 Modern ve koyu tema destekli arayüz
 
 ## 🖼️ Arayüzden Görünüm
+  <img width="1907" height="1006" alt="envanter-1" src="https://github.com/user-attachments/assets/3006d990-0ac7-4d49-92a5-099e7ffba644" />
 
-![Envanter Takip Ekranı](demo.gif)  
+<img width="1918" height="1000" alt="envanter-2" src="https://github.com/user-attachments/assets/4087badd-04c7-4475-8401-5145e52c2620" />
+
+<img width="1913" height="993" alt="envanter-3" src="https://github.com/user-attachments/assets/16ea98a6-59c7-4fc0-9bd9-89ce809ec539" />
+
+
+
+
 > Yukarıda örnek arayüzün çalışır hâli gösterilmektedir.
 
 ## 🛠 Gereksinimler
