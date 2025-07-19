@@ -1,4 +1,4 @@
-# 🎥📟 Video Destekli Hesap Makinesi
+# 📟 Hesap Makinesi ve Binary Dönüşüm 
 
 Bu Python projesi, modern bir GUI (grafik kullanıcı arayüzü) ile oluşturulmuş bir **hesap makinesi** uygulamasıdır. Uygulama açılışında özel bir **splash video** gösterir. Hem **onluk** hem de **ikilik (binary)** sayı sistemlerinde işlem yapabilir ve sonuçları farklı tabanlara dönüştürebilir.
 
@@ -12,12 +12,7 @@ Bu Python projesi, modern bir GUI (grafik kullanıcı arayüzü) ile oluşturulm
 - ⌨️ Klavye desteği (Enter, rakamlar, işlemler, backspace)
 
 ## 📷 Ekran Görüntüsü
-
-![GİF-1](c:\Users\omerk\OneDrive\Masaüstü\Yeni klasör\gif-1.gif)
-![GİF-2](c:\Users\omerk\OneDrive\Masaüstü\Yeni klasör\gif-2.gif)
-![GİF-3](c:\Users\omerk\OneDrive\Masaüstü\Yeni klasör\gif-3.gif)
-
-
+- Gifler Eklenecek
 ## 🛠 Gereksinimler
 
 - Python 3.8+
