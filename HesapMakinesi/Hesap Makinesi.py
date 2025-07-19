@@ -37,7 +37,7 @@ class SplashVideo(tk.Toplevel):
 def show_splash_and_main():
     root = tk.Tk()
     root.withdraw()
-    splash = SplashVideo(root, "pythonProject/cAlgo.mp4", duration=3)
+    splash = SplashVideo(root, "HesapMakinesi/cAlgo.mp4", duration=3)
     splash.wait_window()
     root.destroy()
     app = HesapMakinesiGUI()
