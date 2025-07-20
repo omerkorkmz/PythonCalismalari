@@ -33,7 +33,7 @@ Bu Python projesi, modern bir GUI (grafik kullanıcı arayüzü) ile oluşturulm
 
 ## NOT
 - adım1 ve adım2 basamaklarında python ile oluşturabileceğiniz temel düzeyde
- hesap makinesi yapımını ardından basit düzeyde bir arayüz ile tasarımını görebilirsiniz.
+ hesap makinesi yapımını ardından basit düzeyde bir arayüz tasarımını görebilirsiniz.
  Ana kodda ise (HesapMakinesi.py) tkinter kütüphanesini kullanarak iyileştirilmiş 
 kod yapısını inceleyebilir, kendi örneklerinizi yapabilirsiniz.
 
